@@ -1,7 +1,7 @@
 
 # About
 
-This is a baisct information about Git like how to add,commit,push code on Github.
+This is a basic information about Git like how to add,commit,push code on Github.
 
 
 
