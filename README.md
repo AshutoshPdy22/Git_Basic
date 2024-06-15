@@ -22,5 +22,5 @@ Keep clicking on next on Installation....
 ## Check version
 type this comment to your Vs-code terminal
 
-    $ git --version
+    git --version
 If version number doesn't appear, you need to install it.
