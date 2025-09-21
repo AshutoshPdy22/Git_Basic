@@ -26,3 +26,22 @@ type this comment to your Vs-code terminal
 
     git --version
 If version number doesn't appear, you need to install it.
+
+
+Config user in git
+-----
+Making user_name_id on git
+
+    git config --global user.name "your_name"
+
+Check if it configure username successfully or not
+
+    git config user.name
+
+Making user_email_id on git
+
+    git config --global user.email "your_email"
+
+Check if it configure useremail successfully or not
+
+    git config user.name
