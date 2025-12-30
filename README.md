@@ -1,4 +1,3 @@
-
 # About
 
 This is a basic information about Git- like how to add,commit,push code on Github. 
