@@ -44,3 +44,8 @@ Making user_email_id on git
 Check if it configure useremail successfully or not
 
     git config user.name
+
+
+Check configure setting
+
+    git config --list
